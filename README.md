@@ -3,7 +3,7 @@ Using SQL and Python to investigate global trade trends over time
 
 The findings of the project are summarised in the ‘Summary’ pdf document.
 
-<img src=" title page.pdf" alt="alt text" width="500" height="300">
+<img src="Images/title page.pdf" alt="alt text" width="500" height="300">
 
 # References
 Cover image: Designed by Freepik: www.freepik.com
