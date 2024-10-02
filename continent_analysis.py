@@ -7,7 +7,7 @@ import pandas as pd
 conn = sqlite3.connect("trades.db")
 curs = conn.cursor()
 
-# WLD is just World for Total Trade
+# WLD is World for Total Trade
 
 # 166 countries matched with continents for continents analysis, countries by continents manually edited to include some of the larger countries
 
