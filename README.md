@@ -9,5 +9,4 @@ The findings of the project are summarised in the ‘Summary’ pdf document.
 Cover image: Designed by Freepik: www.freepik.com
 Trade data source: Kaggle, Anton Koshelev, https://www.kaggle.com/datasets/appetukhov/international-trade-database
 Country and continents source: Kaggle, serdar altan, https://www.kaggle.com/datasets/hserdaraltan/countries-by-continent
-![image](https://github.com/user-attachments/assets/5f7a61e9-c3bf-40fc-8096-c5859c32d385)
 
